@@ -21,7 +21,7 @@ if __name__ == '__main__':
 
 ##########################################################################
 
-driver = webdriver.Chrome('C:/Users/kenneth.schmahl/bin/chromedriver')
+driver = webdriver.Chrome('C:/Users/ken.schmahl/bin/chromedriver')
 driver.get("https://h2-ca.com/map?reg=3")
 
 while True:
